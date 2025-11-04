@@ -1,0 +1,5 @@
+pscp.exe C:\Users\DELL\Downloads\djbc\assets\api\login.php sui-server@192.168.10.101:/var/www/suiapps.com/assets/api/
+
+scp -r suiserver@192.168.10.100:/var/www/html/suiapps.com /C:\Users\DELL\Downloads
+
+sui-server - 5U1Asd159789.
